@@ -2,6 +2,8 @@
 
 A full-stack blog application built as part of The Odin Project's Node.js curriculum. This project demonstrates the power of API-first architecture by implementing a REST API backend with two separate frontend applications.
 
+![Blog API Preview](docs/image.png)
+
 ## Project Structure
 
 This monorepo contains three main applications:
